@@ -1,0 +1,10 @@
+/* @impor como o nome diz, importa varivel
+(também importa fontes) */
+
+@import url('./global.css');
+
+/* aplicação da variavel global no bg */
+
+body {
+    background-color: var(--variable-exemple);
+}

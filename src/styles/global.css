@@ -1,0 +1,15 @@
+/* set de varivel / root
+(para não ter de repetir varivel de cor) */
+
+:root {
+    --variable-exemple: white;
+}
+
+/* reset css (remove estilo de fabrica) */
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
