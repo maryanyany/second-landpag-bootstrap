@@ -2,7 +2,7 @@
 (para não ter de repetir varivel de cor) */
 
 :root {
-    --variable-exemple: rgb(255, 255, 255);
+    --variable-exemple: rgb(3, 2, 5);
 }
 
 /* reset css (remove estilo de fabrica) */
